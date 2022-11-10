@@ -1,10 +1,10 @@
 ## Interactive-Computer-Graphics-Project
-#Requirements:
--lGL -lGLU -lglut -lGLEW
-#Command to run the code:
-g++ icg_project.cpp -o pro -lGL -lGLU -lglut -lGLEW
+<br /> Requirements:
+<br /> -lGL -lGLU -lglut -lGLEW
+<br /> Command to run the code:
+<br /> g++ icg_project.cpp -o pro -lGL -lGLU -lglut -lGLEW
 
-#Keyboard functionality
-D,d- Day
-N,n- Night
-conatct me for corrections
+<br /> Keyboard functionality
+<br /> D,d- Day
+<br /> N,n- Night
+<br /> conatct me for corrections
